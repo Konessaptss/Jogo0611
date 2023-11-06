@@ -1,0 +1,2113 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.8f1 (507919d4fff5) revision 5273881'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 22621.2428; Version 2009; 64bit' Language: 'pt' Physical Memory: 8043 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.8f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker4
+-projectPath
+C:/Users/rober/projeto sem nome melhor
+-logFile
+Logs/AssetImportWorker4.log
+-srvPort
+65426
+Successfully changed project path to: C:/Users/rober/projeto sem nome melhor
+C:/Users/rober/projeto sem nome melhor
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 47.26 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.8f1 (507919d4fff5)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/rober/projeto sem nome melhor/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce MX230 (ID=0x1d11)
+    Vendor:   
+    VRAM:     1984 MB
+    Driver:   30.0.15.1169
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56116
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003229 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 48.92 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.287 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001842 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 58.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.908 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.99 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.1 MB.
+System memory in use after: 85.0 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2250.
+Total: 5.147600 ms (FindLiveObjects: 0.361700 ms CreateObjectMapping: 0.149000 ms MarkObjects: 4.362600 ms  DeleteObjects: 0.271800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Fantasy Adventure Pack
+  artifactKey: Guid(85131299b2a781949965d422c37be9c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack using Guid(85131299b2a781949965d422c37be9c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4825c897112b6f8fa416945e6cd41433') in 0.020516 seconds
+  Import took 0.026666 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000519 seconds.
+  path: Assets/Fantasy Adventure Pack/Scenes/SampleScene.unity
+  artifactKey: Guid(a24f60bcc8f2749468569107c1a49982) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Scenes/SampleScene.unity using Guid(a24f60bcc8f2749468569107c1a49982) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '420b0f5784399ca6eb53457cb9bec625') in 0.022928 seconds
+  Import took 0.026971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000754 seconds.
+  path: Assets/Fantasy Adventure Pack/Scenes
+  artifactKey: Guid(7fa6c4586018e2e47ba7bb1e03ad34dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Scenes using Guid(7fa6c4586018e2e47ba7bb1e03ad34dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6908db4a10d624d8cffb4f6e4d9594b2') in 0.010898 seconds
+  Import took 0.015479 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1225.653706 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites
+  artifactKey: Guid(24149105a7f42604fb3fc620ba72a048) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites using Guid(24149105a7f42604fb3fc620ba72a048) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3740d5661ff413a7b6de2560c2f98911') in 0.013850 seconds
+  Import took 0.018168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.370434 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites
+  artifactKey: Guid(4d6e58017cb60bf42bdfb08dd9f52909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites using Guid(4d6e58017cb60bf42bdfb08dd9f52909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c4e549fc6e8f9e539d12b43e5c9074e') in 0.011652 seconds
+  Import took 0.015260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.076033 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/Checkpoints.png
+  artifactKey: Guid(c6d8fb77b2bd00b42bf2878d974c71e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/Checkpoints.png using Guid(c6d8fb77b2bd00b42bf2878d974c71e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd696334db190d2ba4167f87b4e4b3ffe') in 0.671733 seconds
+  Import took 0.677526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000550 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E2_ForegroundProps.png
+  artifactKey: Guid(99ad3cf9141ef894bb47eb275b591782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E2_ForegroundProps.png using Guid(99ad3cf9141ef894bb47eb275b591782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cccf7b5450856db8df3095d2d47b8a84') in 0.066135 seconds
+  Import took 0.088920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E1_E3_BackgroundLayer_RightJoint.png
+  artifactKey: Guid(2ac9baa944dbbca448c6d047b5c6b3ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E1_E3_BackgroundLayer_RightJoint.png using Guid(2ac9baa944dbbca448c6d047b5c6b3ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea3761def38c23e0e47b267fa1d1a75a') in 0.064621 seconds
+  Import took 0.067967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000450 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E3_E2_BackgroundLayer_LeftJoint.png
+  artifactKey: Guid(9b541c08702f11e499d1f43ca16b0902) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E3_E2_BackgroundLayer_LeftJoint.png using Guid(9b541c08702f11e499d1f43ca16b0902) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c3f2c6592a920786536e05620ef2e22') in 0.039779 seconds
+  Import took 0.053759 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000429 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/Tileset1.png
+  artifactKey: Guid(e0744716f2044284fbeb7b5c4fd55149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/Tileset1.png using Guid(e0744716f2044284fbeb7b5c4fd55149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aff0280e57497b98b354e58a04af0594') in 0.253166 seconds
+  Import took 0.258224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E1_E3_FrontLayer_LeftJoint.png
+  artifactKey: Guid(80b66a9f90e34c5499249cfe1be6fa42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E1_E3_FrontLayer_LeftJoint.png using Guid(80b66a9f90e34c5499249cfe1be6fa42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca34d537005324e9f5c41c0bde5a14ea') in 0.042909 seconds
+  Import took 0.046396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E3_FrontLayer.png
+  artifactKey: Guid(0d596e0910362fb49a979382189c8d88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E3_FrontLayer.png using Guid(0d596e0910362fb49a979382189c8d88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58570c3e99a67cf6b284622ef78d5056') in 0.057899 seconds
+  Import took 0.061397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E2_E3_MidLayer_RigthJoint.png
+  artifactKey: Guid(edfdece4c5313944c9df7ccda4ec3885) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E2_E3_MidLayer_RigthJoint.png using Guid(edfdece4c5313944c9df7ccda4ec3885) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05848f0be406e701dbeb4e6e61effd79') in 0.036484 seconds
+  Import took 0.039833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000397 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E1_E2_BackgroundLayer_RightJoint.png
+  artifactKey: Guid(02a93079b36b613469af93b379397208) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E1_E2_BackgroundLayer_RightJoint.png using Guid(02a93079b36b613469af93b379397208) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2b488ed89df7ccc4665502daa682da2') in 0.029356 seconds
+  Import took 0.032843 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000405 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E1_E2_MidLayer_LeftJoint.png
+  artifactKey: Guid(0eb47d1cb092a0f4395f6940bfd14e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E1_E2_MidLayer_LeftJoint.png using Guid(0eb47d1cb092a0f4395f6940bfd14e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2903955687fd0fec08f30ec2b4958c60') in 0.048108 seconds
+  Import took 0.052388 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E3_E1_BackgroundLayer_LeftJoint.png
+  artifactKey: Guid(835725d0dfaf48f4fa3c0c6c13c419b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E3_E1_BackgroundLayer_LeftJoint.png using Guid(835725d0dfaf48f4fa3c0c6c13c419b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92b6c94228d04af88053f7c2dee58ded') in 0.043547 seconds
+  Import took 0.046520 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E2_E3_BackgroundLayer_LeftJoint.png
+  artifactKey: Guid(63399cac0bb73204d9170452baa4d370) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E2_E3_BackgroundLayer_LeftJoint.png using Guid(63399cac0bb73204d9170452baa4d370) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c86184f50ddc1686dfb96169c07435d') in 0.038829 seconds
+  Import took 0.042044 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000805 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E2_E3_FrontLayer_LeftJoint.png
+  artifactKey: Guid(a38ebd72a76ea9b4caedfc3dd4cd6e41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E2_E3_FrontLayer_LeftJoint.png using Guid(a38ebd72a76ea9b4caedfc3dd4cd6e41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '076be3415b028ce9a59d7f9037983210') in 0.061196 seconds
+  Import took 0.064763 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E2_E3_BackgroundLayer_RightJoint.png
+  artifactKey: Guid(eca3a4bddba54344dba00de76f99992c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E2_E3_BackgroundLayer_RightJoint.png using Guid(eca3a4bddba54344dba00de76f99992c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86871b79828e95510a3d099a47cc40a2') in 0.045575 seconds
+  Import took 0.048438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E2_FrontLayer.png
+  artifactKey: Guid(6f18b2a3773eef446a4124c04919dcec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E2_FrontLayer.png using Guid(6f18b2a3773eef446a4124c04919dcec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d1ad1e4df46c3dd7a1cc2a80474bebf') in 0.083113 seconds
+  Import took 0.088082 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000446 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/Tileset3.png
+  artifactKey: Guid(ff87295ac73c40e43810c68fcfdc9058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/Tileset3.png using Guid(ff87295ac73c40e43810c68fcfdc9058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76ffcc98aab598e5c9841543887e0ffe') in 0.246664 seconds
+  Import took 0.250996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E1_BackgroundLayer.png
+  artifactKey: Guid(eaf113232e904394e9407cb31def5097) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E1_BackgroundLayer.png using Guid(eaf113232e904394e9407cb31def5097) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6367dd674922c69a987a55bd27aa6eb') in 0.081021 seconds
+  Import took 0.084062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E1_E3_MidLayer_LeftJoint.png
+  artifactKey: Guid(0d667cb237d1381488373e1acc2bf800) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E1_E3_MidLayer_LeftJoint.png using Guid(0d667cb237d1381488373e1acc2bf800) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0be4269077c0fc080b44d7edecfc8ed') in 0.061237 seconds
+  Import took 0.064752 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E2_E1_FrontLayer_RightJoint.png
+  artifactKey: Guid(66854146605072b419532904da409ebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E2_E1_FrontLayer_RightJoint.png using Guid(66854146605072b419532904da409ebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93e0a83f5c070015e1c1d8812fe93430') in 0.041470 seconds
+  Import took 0.045110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000821 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E1_E3_BackgroundLayer_LeftJoint.png
+  artifactKey: Guid(31584631a45e73f4ab79a38a1875faca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E1_E3_BackgroundLayer_LeftJoint.png using Guid(31584631a45e73f4ab79a38a1875faca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68392f82aac0489e5ad6389add2f0558') in 0.036196 seconds
+  Import took 0.040761 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E1_E3_FrontLayer_RigthJoint.png
+  artifactKey: Guid(9dfc76ee649a0c344a2409bd9b56a146) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E1_E3_FrontLayer_RigthJoint.png using Guid(9dfc76ee649a0c344a2409bd9b56a146) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b186bc5779cd0644b17d8f0b320bbc02') in 0.064211 seconds
+  Import took 0.068651 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E3_E2_MidLayer_LeftJoint.png
+  artifactKey: Guid(b2f76aacc59a68e4a9c0ee44bd173826) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E3_E2_MidLayer_LeftJoint.png using Guid(b2f76aacc59a68e4a9c0ee44bd173826) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf9e285fab912dafdc393cc14006bb57') in 0.036230 seconds
+  Import took 0.041130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E1_FrontLayer.png
+  artifactKey: Guid(1a30872f973f8cd4b948af79574031e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E1_FrontLayer.png using Guid(1a30872f973f8cd4b948af79574031e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85864ce89f2e79e1980672d1fc6f9725') in 0.071173 seconds
+  Import took 0.074374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E2_MidLayer.png
+  artifactKey: Guid(99d633c3c98b042408efdc023f4ab9a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E2_MidLayer.png using Guid(99d633c3c98b042408efdc023f4ab9a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '998caf304e7b4a52195f6f1f774123a7') in 0.042739 seconds
+  Import took 0.045579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E3_E1_MidLayer_RigthJoint.png
+  artifactKey: Guid(f954035fb93a05e41880b1043b68b2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E3_E1_MidLayer_RigthJoint.png using Guid(f954035fb93a05e41880b1043b68b2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34c068c9d73babe1b438a6ecabc6abe6') in 0.065407 seconds
+  Import took 0.069449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000452 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E1_E2_BackgroundLayer_LeftJoint.png
+  artifactKey: Guid(e398248bdbf80f1489ea7579cfa96356) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E1_E2_BackgroundLayer_LeftJoint.png using Guid(e398248bdbf80f1489ea7579cfa96356) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '104db08cb9d1cb703120b6e2e28dc4dd') in 0.065150 seconds
+  Import took 0.069021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E2_E3_MidLayer_LeftJoint.png
+  artifactKey: Guid(803ce0d0e60d8dc4db0bdda649bb7e0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E2_E3_MidLayer_LeftJoint.png using Guid(803ce0d0e60d8dc4db0bdda649bb7e0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a481ed58451be85e515e6c149639fb30') in 0.060661 seconds
+  Import took 0.063640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E2_E1_MidLayer_LeftJoint.png
+  artifactKey: Guid(24a5779d28c6be84ab481fa6c04d3f06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E2_E1_MidLayer_LeftJoint.png using Guid(24a5779d28c6be84ab481fa6c04d3f06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '158519a0363c10650b8f7ce4259d019b') in 0.043656 seconds
+  Import took 0.046721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E2_E3_FrontLayer_RigthJoint.png
+  artifactKey: Guid(41dbf23ddd0a2b04781ec5f7e6e61b3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E2_E3_FrontLayer_RigthJoint.png using Guid(41dbf23ddd0a2b04781ec5f7e6e61b3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ba672a7824bec8fa4319591064a0707') in 0.036670 seconds
+  Import took 0.039763 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E3_E1_FrontLayer_LeftJoint.png
+  artifactKey: Guid(f958508c99138754bacbcabfdd2359fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E3_E1_FrontLayer_LeftJoint.png using Guid(f958508c99138754bacbcabfdd2359fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d34077c2976b5c7aab92d84c66293a7') in 0.133108 seconds
+  Import took 0.138145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000527 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E2_E1_BackgroundLayer_LeftJoint.png
+  artifactKey: Guid(aa6c87f5ef108164097e2b9261465306) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E2_E1_BackgroundLayer_LeftJoint.png using Guid(aa6c87f5ef108164097e2b9261465306) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '785f0e76ab7ebadd29f99352edbbb25f') in 0.127531 seconds
+  Import took 0.131997 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E3_E2_FrontLayer_RigthJoint.png
+  artifactKey: Guid(9edab35b7bd75a74f98daecf21cd7fa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E3_E2_FrontLayer_RigthJoint.png using Guid(9edab35b7bd75a74f98daecf21cd7fa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90a0bc390bff5ebe4f3b814abbceda1c') in 0.114536 seconds
+  Import took 0.118720 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000434 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E1_E2_MidLayer_RigthJoint.png
+  artifactKey: Guid(5048046f1323e44418be9e8f0075a175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E1_E2_MidLayer_RigthJoint.png using Guid(5048046f1323e44418be9e8f0075a175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f7c9a7872746d71db49d0d343c4c82c') in 0.040428 seconds
+  Import took 0.046745 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000402 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E2_BackgroundLayer.png
+  artifactKey: Guid(d91d7591695684649845ac4eeb7b3e2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E2_BackgroundLayer.png using Guid(d91d7591695684649845ac4eeb7b3e2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0aeb4cef163ad3f6ca8bb32e2618c30') in 0.067106 seconds
+  Import took 0.086851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000486 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E3_E2_FrontLayer_LeftJoint.png
+  artifactKey: Guid(76072c244fe1b6c4a89472257edda507) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E3_E2_FrontLayer_LeftJoint.png using Guid(76072c244fe1b6c4a89472257edda507) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee235cc4b7a8513e16e02b7719ccfd51') in 0.069674 seconds
+  Import took 0.073281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E1_E3_MidLayer_RigthJoint.png
+  artifactKey: Guid(375dc7370caa535498fdf61b35b5b868) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E1_E3_MidLayer_RigthJoint.png using Guid(375dc7370caa535498fdf61b35b5b868) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cccee998ea6cebca9be70c319882152b') in 0.033024 seconds
+  Import took 0.038321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000666 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E2_E1_BackgroundLayer_RightJoint.png
+  artifactKey: Guid(ef037d1c44a77d449b302b3049054ca5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E2_E1_BackgroundLayer_RightJoint.png using Guid(ef037d1c44a77d449b302b3049054ca5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10b729a749dd609f2ffff2b94f6ae5d6') in 0.038496 seconds
+  Import took 0.042010 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000570 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E3_E1_MidLayer_LeftJoint.png
+  artifactKey: Guid(65178e9a138cce84982af053afd3d5c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E3_E1_MidLayer_LeftJoint.png using Guid(65178e9a138cce84982af053afd3d5c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a6027e763f64f688265818aff5c2927') in 0.045017 seconds
+  Import took 0.049189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000876 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E3_ForegroundProps.png
+  artifactKey: Guid(6d39dfac89ec1c044ba3ebeecfb66a70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E3_ForegroundProps.png using Guid(6d39dfac89ec1c044ba3ebeecfb66a70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db7eefd0508b3efd982d190858a8c91d') in 0.042306 seconds
+  Import took 0.046642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E3_E1_FrontLayer_RigthJoint.png
+  artifactKey: Guid(d520f4185b3da2e42a609e21bb9f7e9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E3_E1_FrontLayer_RigthJoint.png using Guid(d520f4185b3da2e42a609e21bb9f7e9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6256405e90fe423c6c29f85d74f7806') in 0.150119 seconds
+  Import took 0.158397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000869 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E3_E2_MidLayer_RigthJoint.png
+  artifactKey: Guid(2fd68956f9879f54b9981f000dc548c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E3_E2_MidLayer_RigthJoint.png using Guid(2fd68956f9879f54b9981f000dc548c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '465b3b30066cf8d11a381e3826d35e83') in 0.061038 seconds
+  Import took 0.097670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E1_E2_FrontLayer_LeftJoint.png
+  artifactKey: Guid(95c76381f2277684f8fdee30751c3c9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E1_E2_FrontLayer_LeftJoint.png using Guid(95c76381f2277684f8fdee30751c3c9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d597b5ebbf2e05b516212ebf29ea8e4') in 0.037658 seconds
+  Import took 0.042230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E2_E1_FrontLayer_LeftJoint.png
+  artifactKey: Guid(c2a1e58fa4bba854eabd6823e9d291bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E2_E1_FrontLayer_LeftJoint.png using Guid(c2a1e58fa4bba854eabd6823e9d291bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cf9c4f0826d51cc313c297be8c8e06f') in 0.034455 seconds
+  Import took 0.038550 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001017 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E1_E2_FrontLayer_LeftJoint.png
+  artifactKey: Guid(95c76381f2277684f8fdee30751c3c9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E1_E2_FrontLayer_LeftJoint.png using Guid(95c76381f2277684f8fdee30751c3c9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d597b5ebbf2e05b516212ebf29ea8e4') in 0.017705 seconds
+  Import took 0.023177 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E2_E1_MidLayer_RightJoint.png
+  artifactKey: Guid(d81826a927303c440baa0eadd6f980a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E2_E1_MidLayer_RightJoint.png using Guid(d81826a927303c440baa0eadd6f980a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f262a7a06f174449f46e1512e28bf57') in 0.027595 seconds
+  Import took 0.031495 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E1_E2_FrontLayer_RigthJoint.png
+  artifactKey: Guid(9072dbbd4e9399d4ba2c67a92ecf78fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E1_E2_FrontLayer_RigthJoint.png using Guid(9072dbbd4e9399d4ba2c67a92ecf78fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05d7c9082c90e88044a3b78f0239fefe') in 0.034521 seconds
+  Import took 0.037981 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E1_MidLayer.png
+  artifactKey: Guid(c737295a2caa76c409e9f8a8722d05f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E1_MidLayer.png using Guid(c737295a2caa76c409e9f8a8722d05f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '073ab9c4939e53a4cee19bc163864e83') in 0.038678 seconds
+  Import took 0.043121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E3_BackgroundLayer.png
+  artifactKey: Guid(a0dbae9bb91c69f459438ad018f5c118) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E3_BackgroundLayer.png using Guid(a0dbae9bb91c69f459438ad018f5c118) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6f72df0ffb3e7e6afbe499a541948f1') in 0.030612 seconds
+  Import took 0.048505 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/Props.png
+  artifactKey: Guid(7f96ad0451996d34dbfae7dfb249c59f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/Props.png using Guid(7f96ad0451996d34dbfae7dfb249c59f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f74e2c5c284302b9b4ee6f16f032064d') in 0.611634 seconds
+  Import took 0.615811 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/Tileset2.png
+  artifactKey: Guid(a9ae830adad348c4b973281d6aac7372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/Tileset2.png using Guid(a9ae830adad348c4b973281d6aac7372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77c593dec0842cb449f4628b9f5c8a8e') in 0.414635 seconds
+  Import took 0.418143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E3_MidLayer.png
+  artifactKey: Guid(1e2e96a98fb962c479f3680dbc236e81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E3_MidLayer.png using Guid(1e2e96a98fb962c479f3680dbc236e81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb016071297e77cd96334c125ff36a65') in 0.037700 seconds
+  Import took 0.041750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000628 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E3_E1_BackgroundLayer_RightJoint.png
+  artifactKey: Guid(83add0403eb91094d999f2e6b7606855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E3_E1_BackgroundLayer_RightJoint.png using Guid(83add0403eb91094d999f2e6b7606855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4a6a9e85ba232ad6197b4eab4ebbbbe') in 0.040699 seconds
+  Import took 0.045227 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E3_E2_BackgroundLayer_RightJoint.png
+  artifactKey: Guid(0a996efddac15e441bfefb3999cc5e84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E3_E2_BackgroundLayer_RightJoint.png using Guid(0a996efddac15e441bfefb3999cc5e84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e61eed17d7cc268f69960f6cc325d1c') in 0.045913 seconds
+  Import took 0.049809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000393 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E3_E1_BackgroundLayer_RightJoint.png
+  artifactKey: Guid(83add0403eb91094d999f2e6b7606855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Environment Sprites/E3_E1_BackgroundLayer_RightJoint.png using Guid(83add0403eb91094d999f2e6b7606855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4a6a9e85ba232ad6197b4eab4ebbbbe') in 0.012541 seconds
+  Import took 0.015926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.219419 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites
+  artifactKey: Guid(7c594e655625a114d8a68639300fcb84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites using Guid(7c594e655625a114d8a68639300fcb84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd05bb8819ead805d750e276a11e1a428') in 0.011988 seconds
+  Import took 0.016027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.114297 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1
+  artifactKey: Guid(b963a0310db28114f87f7da7f30df02f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1 using Guid(b963a0310db28114f87f7da7f30df02f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '421223baba12999d6294e281b459fe20') in 0.010788 seconds
+  Import took 0.014714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040045 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_Appear.png
+  artifactKey: Guid(5229f81ded656dd45a9c66650d7e4a8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_Appear.png using Guid(5229f81ded656dd45a9c66650d7e4a8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1ba0cc65c3f91d5274ffb80d7358662') in 0.088298 seconds
+  Import took 0.092970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_Dead.png
+  artifactKey: Guid(370b0dfecf183f74f9e1c3ba6d5e535c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_Dead.png using Guid(370b0dfecf183f74f9e1c3ba6d5e535c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd88ce194b22cff8bb0853cd39179d3de') in 0.226815 seconds
+  Import took 0.229761 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_AttackDown.png
+  artifactKey: Guid(9596dad971fe2b246b12d817e27ae7e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_AttackDown.png using Guid(9596dad971fe2b246b12d817e27ae7e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54559f9321d9a72c166d1f3ebd839440') in 0.058303 seconds
+  Import took 0.061378 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_Dash.png
+  artifactKey: Guid(0117f9b44b519e74ca1605eec7f63762) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_Dash.png using Guid(0117f9b44b519e74ca1605eec7f63762) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f149ccccc44dc7b78cd14ae986b4aa01') in 0.079834 seconds
+  Import took 0.082611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_Attack2.png
+  artifactKey: Guid(6a73701d8e6309c498ae7f36a821a942) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_Attack2.png using Guid(6a73701d8e6309c498ae7f36a821a942) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4802f0bb3ae0c546611666c5c74cde5') in 0.075679 seconds
+  Import took 0.079078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_Attack3.png
+  artifactKey: Guid(fc7019b2806ed3643b97ce3c16d275cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_Attack3.png using Guid(fc7019b2806ed3643b97ce3c16d275cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbbf06530867f214f348c5b63580e0db') in 0.052554 seconds
+  Import took 0.056100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_IdleTurn.png
+  artifactKey: Guid(b5c32bde93892a84bb6cdc77b1041bba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_IdleTurn.png using Guid(b5c32bde93892a84bb6cdc77b1041bba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85e821fac4bc0cb85598d97e10a9c8b2') in 0.040067 seconds
+  Import took 0.043072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_Idle.png
+  artifactKey: Guid(f7e5015e76c81af45a8505ce6eb2ebdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_Idle.png using Guid(f7e5015e76c81af45a8505ce6eb2ebdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aff3e43609238370f5d55ff79580069d') in 0.064034 seconds
+  Import took 0.067227 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_DoubleJump.png
+  artifactKey: Guid(5078521f538051741b6223b9abfd8a8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_DoubleJump.png using Guid(5078521f538051741b6223b9abfd8a8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ebdc5a656396254889538e7f85481e7') in 0.070404 seconds
+  Import took 0.073566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_DoubleJumpToFall.png
+  artifactKey: Guid(c43fd1c1590a5c04c89ed42be159a36c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_DoubleJumpToFall.png using Guid(c43fd1c1590a5c04c89ed42be159a36c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f168f220965c07419169eaf29235b1d') in 0.063072 seconds
+  Import took 0.066247 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_Fall.png
+  artifactKey: Guid(8c0a1141bea17c24089616e49d8d684e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_Fall.png using Guid(8c0a1141bea17c24089616e49d8d684e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73f1358e57de46f4bdafead3b1180ede') in 0.054133 seconds
+  Import took 0.057340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_RunTurn.png
+  artifactKey: Guid(c6386b82b59821443869c01415ddf36c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_RunTurn.png using Guid(c6386b82b59821443869c01415ddf36c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dd7b43589198c2a021fab98d0742739') in 0.064700 seconds
+  Import took 0.067931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_Blink.png
+  artifactKey: Guid(59b356c3e346d9547bfbdb94c8119694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_Blink.png using Guid(59b356c3e346d9547bfbdb94c8119694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5c512494cef61e72bd4c2f27aa9b539') in 0.111107 seconds
+  Import took 0.114281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_Attack4.png
+  artifactKey: Guid(d23ac9a7235fda5479dabf97bb41ad97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_Attack4.png using Guid(d23ac9a7235fda5479dabf97bb41ad97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30d6ded25df54df8a9ea3816d753ce8c') in 0.048292 seconds
+  Import took 0.051637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000411 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_TakeOff.png
+  artifactKey: Guid(a2f4b4194970d03469e5d2ec32f7f013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_TakeOff.png using Guid(a2f4b4194970d03469e5d2ec32f7f013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9eb63e569129b0dc43d97df4a488d58d') in 0.029398 seconds
+  Import took 0.034464 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000863 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_RunToIdle.png
+  artifactKey: Guid(bb670839581d7744bba5bc7b81eaafa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_RunToIdle.png using Guid(bb670839581d7744bba5bc7b81eaafa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4939005ec953e52c6e57d181687a9e4b') in 0.038512 seconds
+  Import took 0.043186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_VFX.png
+  artifactKey: Guid(2bdd69b4bc1c8664595ae5bd032a3c78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_VFX.png using Guid(2bdd69b4bc1c8664595ae5bd032a3c78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '017057f3b03d72a1683b38f0a2508cb4') in 0.070632 seconds
+  Import took 0.074154 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_AttackUp.png
+  artifactKey: Guid(52eda1ed008a7a04f867c1a464c4804e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_AttackUp.png using Guid(52eda1ed008a7a04f867c1a464c4804e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47799e6c603b4cb8646566b4e04ff3a8') in 0.057145 seconds
+  Import took 0.060033 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_IdleToRun.png
+  artifactKey: Guid(616f7dc3a6132244180247499a702024) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_IdleToRun.png using Guid(616f7dc3a6132244180247499a702024) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea2da708256b9963ae659fad58bde16a') in 0.037180 seconds
+  Import took 0.040021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_Glide.png
+  artifactKey: Guid(de238ca11752f734e91bf50b1dbf45c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_Glide.png using Guid(de238ca11752f734e91bf50b1dbf45c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b889fb66c4d804eeb960256b0d36d3c') in 0.058250 seconds
+  Import took 0.061035 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_Landing.png
+  artifactKey: Guid(ef84922614131ba499bb708f862a14bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_Landing.png using Guid(ef84922614131ba499bb708f862a14bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9872f64c3be6904cd64804b6e1a2e29c') in 0.040575 seconds
+  Import took 0.043437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_RaiseToFall.png
+  artifactKey: Guid(89ada57dfa0f98942a9b15a02f4bdf66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_RaiseToFall.png using Guid(89ada57dfa0f98942a9b15a02f4bdf66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cddb234e35b1ea5207b3a5efcc7d120') in 0.044591 seconds
+  Import took 0.047442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000406 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_Hit.png
+  artifactKey: Guid(a5fe8d2cdf48f424dbd6b4193f470f6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_Hit.png using Guid(a5fe8d2cdf48f424dbd6b4193f470f6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c260841d7ccd5487228f220cadc7ba8') in 0.050685 seconds
+  Import took 0.053851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_Attack1.png
+  artifactKey: Guid(42b3a560056da714c8d8561239125826) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_Attack1.png using Guid(42b3a560056da714c8d8561239125826) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aac0d207e3f10e7d1f1317401f346ec4') in 0.051767 seconds
+  Import took 0.054772 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_Raise.png
+  artifactKey: Guid(d9e7dfdd52b643442aef7159aa60581b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_Raise.png using Guid(d9e7dfdd52b643442aef7159aa60581b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73422d8d3a46d40c42a94e038a855221') in 0.042752 seconds
+  Import took 0.045758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_Run.png
+  artifactKey: Guid(3d31155cd4017ad42b4bba79882b5754) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_Run.png using Guid(3d31155cd4017ad42b4bba79882b5754) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aed7043a329c99be42c8be07caaf4792') in 0.130273 seconds
+  Import took 0.133490 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_Raise.png
+  artifactKey: Guid(d9e7dfdd52b643442aef7159aa60581b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player1/P1_Raise.png using Guid(d9e7dfdd52b643442aef7159aa60581b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73422d8d3a46d40c42a94e038a855221') in 0.024395 seconds
+  Import took 0.027955 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.245753 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/UI sprites
+  artifactKey: Guid(a16ef3ca11208194e88c7ef47d363ba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/UI sprites using Guid(a16ef3ca11208194e88c7ef47d363ba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '038d4d9c52b8b35828585c16c836b67d') in 0.011981 seconds
+  Import took 0.015962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.129081 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/UI sprites/UI_NoOutline.png
+  artifactKey: Guid(5006ac81f6d4d1446b9e4b47e7bd61a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/UI sprites/UI_NoOutline.png using Guid(5006ac81f6d4d1446b9e4b47e7bd61a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc402d430adb5faf65de0bb7ff00458b') in 0.079901 seconds
+  Import took 0.085206 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000438 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/UI sprites/UI_WhiteOutline.png
+  artifactKey: Guid(380bf6af49e844c4bb8040b0ed89ff63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/UI sprites/UI_WhiteOutline.png using Guid(380bf6af49e844c4bb8040b0ed89ff63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed8c2c077cc5607b0d296b580562f6d4') in 0.054479 seconds
+  Import took 0.058265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.116905 seconds.
+  path: Assets/Fantasy Adventure Pack/Prefabs
+  artifactKey: Guid(a7e852e99848e0b44a3fe2e8187016fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Prefabs using Guid(a7e852e99848e0b44a3fe2e8187016fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a490f009aef4cc7526ac4da0ebf2ac8e') in 0.011467 seconds
+  Import took 0.015025 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038063 seconds.
+  path: Assets/Fantasy Adventure Pack/Prefabs/Checkpoint.prefab
+  artifactKey: Guid(fe37f05d577a7244ea2dfa5843e7c26d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Prefabs/Checkpoint.prefab using Guid(fe37f05d577a7244ea2dfa5843e7c26d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '517df3882a3b98cb59710b716adf0d89') in 0.215346 seconds
+  Import took 0.218895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/Fantasy Adventure Pack/Prefabs/UiCoin.prefab
+  artifactKey: Guid(690db25c777181d4ab4f85c97443979e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Prefabs/UiCoin.prefab using Guid(690db25c777181d4ab4f85c97443979e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd88ed610ade9433a23cf39177ae2dd25') in 0.043814 seconds
+  Import took 0.047627 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/Fantasy Adventure Pack/Prefabs/HealthGreenGem.prefab
+  artifactKey: Guid(bfd0638adf6b90d44a6f81e6d69a688f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Prefabs/HealthGreenGem.prefab using Guid(bfd0638adf6b90d44a6f81e6d69a688f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be71c24c43459aeed1c9bf894f035b2d') in 0.050338 seconds
+  Import took 0.054067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1825.649203 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3
+  artifactKey: Guid(89eb59b7afe6e3e43a62bf4dc84baccd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3 using Guid(89eb59b7afe6e3e43a62bf4dc84baccd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1449d0503f1682cd2879a7015166ab29') in 0.042174 seconds
+  Import took 0.048935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.088649 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3/P3_Appear.png
+  artifactKey: Guid(a1b24e82822b51d4dbae6a513672c43e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3/P3_Appear.png using Guid(a1b24e82822b51d4dbae6a513672c43e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3b49340b2b50ea2e46393180336b94e') in 0.378547 seconds
+  Import took 0.385775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013155 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3/P3_Landing.png
+  artifactKey: Guid(af1fa9a644178be4ebdbc95c892cd393) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3/P3_Landing.png using Guid(af1fa9a644178be4ebdbc95c892cd393) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95f808d2534d13fba540558a5378b8d8') in 0.096113 seconds
+  Import took 0.103142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3/P3_Dash.png
+  artifactKey: Guid(914523545fa58ac4c8ed19b486c62898) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3/P3_Dash.png using Guid(914523545fa58ac4c8ed19b486c62898) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '257b0bfc5a9ea40c3f3963195edae834') in 0.223380 seconds
+  Import took 0.228197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000578 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3/P3_Idle.png
+  artifactKey: Guid(9ecaf612ffc4eac4da1f261c008b161a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3/P3_Idle.png using Guid(9ecaf612ffc4eac4da1f261c008b161a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5eba3afa3518f059a99461eb167a6521') in 0.212446 seconds
+  Import took 0.217715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000484 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3/P3_Hit.png
+  artifactKey: Guid(cdbec2c816a12844c9e32d6646cb3e43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3/P3_Hit.png using Guid(cdbec2c816a12844c9e32d6646cb3e43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '618d3e49c7c0be90499170c06579753e') in 0.225102 seconds
+  Import took 0.230455 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001463 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3/P3_Run.png
+  artifactKey: Guid(0e9bb3f196090614b97e953c52daafe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3/P3_Run.png using Guid(0e9bb3f196090614b97e953c52daafe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2c5485c8e34a879782c3757097cae2e') in 0.193794 seconds
+  Import took 0.199046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000452 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3/P3_Dead.png
+  artifactKey: Guid(2ce9134a47cfd7745a6976ca770e3910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3/P3_Dead.png using Guid(2ce9134a47cfd7745a6976ca770e3910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dc8cd61065c1c96599792c72b383d48') in 0.268560 seconds
+  Import took 0.272956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3/P3_Blink.png
+  artifactKey: Guid(b6a0697b3a1102343956b6c2930521be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3/P3_Blink.png using Guid(b6a0697b3a1102343956b6c2930521be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd99bcb4c78e60dbcc050a26f0cbfa38') in 0.198133 seconds
+  Import took 0.203958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001207 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3/P3_AttackUp.png
+  artifactKey: Guid(b0a231d7a67dc1648b891b536e2d1bf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3/P3_AttackUp.png using Guid(b0a231d7a67dc1648b891b536e2d1bf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '986e97b944b90b63726714d27fa759ad') in 0.243833 seconds
+  Import took 0.250010 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000502 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3/P3_AttackDown.png
+  artifactKey: Guid(ff7f2bbeee393794580adbb65efe3dd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3/P3_AttackDown.png using Guid(ff7f2bbeee393794580adbb65efe3dd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19f5707189f9781f7986d8cde0e0f869') in 0.126983 seconds
+  Import took 0.131213 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000431 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3/P3_FireAttack.png
+  artifactKey: Guid(22e734e7b4246f544b9e6cfe96a0be58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3/P3_FireAttack.png using Guid(22e734e7b4246f544b9e6cfe96a0be58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d5f2c64c0450f787c3b9406b6e9b7c3') in 0.108463 seconds
+  Import took 0.111868 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3/P3_RaiseToFall.png
+  artifactKey: Guid(2b86af62c168b9a44a8a769aeaf82551) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3/P3_RaiseToFall.png using Guid(2b86af62c168b9a44a8a769aeaf82551) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c2141f6e34ad11e0c81cb8b32c46a56') in 0.036297 seconds
+  Import took 0.039954 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3/P3_GroundAttack.png
+  artifactKey: Guid(9baf14e27647f474e97b46ab02890e71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3/P3_GroundAttack.png using Guid(9baf14e27647f474e97b46ab02890e71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c54d3703b4ff72944bdda02811bdfe7') in 0.178809 seconds
+  Import took 0.183703 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000452 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3/P3_Fall.png
+  artifactKey: Guid(038cdd018f919e849a6d268acb0d6de3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3/P3_Fall.png using Guid(038cdd018f919e849a6d268acb0d6de3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '814410f4dc8e56ee7e0799e9da629a00') in 0.133790 seconds
+  Import took 0.137856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3/P3_VFX.png
+  artifactKey: Guid(88590b4e72673e44db1788daa75462c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3/P3_VFX.png using Guid(88590b4e72673e44db1788daa75462c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a750ad2658adcb5ef696b4ec66632fe') in 0.259105 seconds
+  Import took 0.264501 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000627 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3/P3_Attack1.png
+  artifactKey: Guid(da30b42276f4679448f1a4a13b4b6bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3/P3_Attack1.png using Guid(da30b42276f4679448f1a4a13b4b6bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaa5bac628147eaa7435ae4b35bca657') in 0.275271 seconds
+  Import took 0.281080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000485 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3/P3_Attack4.png
+  artifactKey: Guid(c6c56a29f21f62d4fb751aacc3e5ff70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3/P3_Attack4.png using Guid(c6c56a29f21f62d4fb751aacc3e5ff70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc1524ea0974b00490683177d489867b') in 0.414994 seconds
+  Import took 0.419532 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000420 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3/P3_TakeOff.png
+  artifactKey: Guid(c80f0370b1265eb4bbccdb40ce4e6c15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3/P3_TakeOff.png using Guid(c80f0370b1265eb4bbccdb40ce4e6c15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf8c53852a4864d452971d96988e11e3') in 0.173616 seconds
+  Import took 0.178154 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000464 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/P2_Raise.png
+  artifactKey: Guid(6d6afbcf817978540bcae6b82a159922) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/P2_Raise.png using Guid(6d6afbcf817978540bcae6b82a159922) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '259aae20add3e2c0580471b0e162f5b8') in 0.245430 seconds
+  Import took 0.250574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000483 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/P2_VFX.png
+  artifactKey: Guid(92fdae4bda599624a864d2d87072e523) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/P2_VFX.png using Guid(92fdae4bda599624a864d2d87072e523) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84a454c194962722ab3a6630465cad11') in 0.227351 seconds
+  Import took 0.231566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/P2_IdleTurn.png
+  artifactKey: Guid(d6d63623528c680499a919431670c377) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/P2_IdleTurn.png using Guid(d6d63623528c680499a919431670c377) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81aad2c4d4eb37dd54cdd6b6780af5b4') in 0.255613 seconds
+  Import took 0.336027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000871 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/P2_Attack4.png
+  artifactKey: Guid(b1982ac525025804c814a6831aa18778) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/P2_Attack4.png using Guid(b1982ac525025804c814a6831aa18778) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9b90859e2d97bf75e387ffda26cb23a') in 0.366099 seconds
+  Import took 0.377629 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000852 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/P2_BLink.png
+  artifactKey: Guid(32cf42259017de842b14709ad3cf99eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/P2_BLink.png using Guid(32cf42259017de842b14709ad3cf99eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ea1472c13bccc691b906e13ce196a0d') in 0.255477 seconds
+  Import took 0.264627 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000926 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/P2_IdleToRun.png
+  artifactKey: Guid(3f587b7474ee2bd4fb349ed38260e409) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/P2_IdleToRun.png using Guid(3f587b7474ee2bd4fb349ed38260e409) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91fe268628134d2029f1d6eaf27f47b8') in 0.143132 seconds
+  Import took 0.149066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/P2_Power.png
+  artifactKey: Guid(5a9203e088df65643aa9987bcff4d011) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/P2_Power.png using Guid(5a9203e088df65643aa9987bcff4d011) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ee6b5df6cede67b65c80a08c0d8b436') in 0.359112 seconds
+  Import took 0.362764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3/P3_IdleToRun.png
+  artifactKey: Guid(439868ea74f4dae4a82089dffb244b0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3/P3_IdleToRun.png using Guid(439868ea74f4dae4a82089dffb244b0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f56046613ec294ead732ffc5c98d717d') in 0.092863 seconds
+  Import took 0.096803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3/P3_RunTurn.png
+  artifactKey: Guid(eee73ce1ab703c1489b8149fd18048e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3/P3_RunTurn.png using Guid(eee73ce1ab703c1489b8149fd18048e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c4636cb9255415e6e8fc301a853bcad') in 0.163248 seconds
+  Import took 0.166697 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/P2_Attack1.png
+  artifactKey: Guid(63dfe7c0101da8641bdda045fa387bc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/P2_Attack1.png using Guid(63dfe7c0101da8641bdda045fa387bc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '162f21fc9853937c69e40e7927eff056') in 0.079264 seconds
+  Import took 0.082904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000421 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/P2_Landing.png
+  artifactKey: Guid(ede96d86bb498ff499526738c023bd82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/P2_Landing.png using Guid(ede96d86bb498ff499526738c023bd82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21a3c7fc42735af5ea8c3d5823a7487c') in 0.072092 seconds
+  Import took 0.075577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000395 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/P2_Idle.png
+  artifactKey: Guid(a1988b0f2603e3446862959403643436) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/P2_Idle.png using Guid(a1988b0f2603e3446862959403643436) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1d155057ace67ef6f681a95e5919ef1') in 0.105821 seconds
+  Import took 0.109457 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000398 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/P2_Appear.png
+  artifactKey: Guid(dbcc87d11bdfdcb4ebdd475a027818a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/P2_Appear.png using Guid(dbcc87d11bdfdcb4ebdd475a027818a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d64a7fb38971d0459f84e66f60a261d') in 0.172996 seconds
+  Import took 0.176540 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/P2_Attack3.png
+  artifactKey: Guid(354abfb16ea010e4f99234163aa54b94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/P2_Attack3.png using Guid(354abfb16ea010e4f99234163aa54b94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5676e7861fb5522dc2df06fbd1201daa') in 0.071661 seconds
+  Import took 0.075155 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/P2_Attack2.png
+  artifactKey: Guid(779e089ea3a5da244b26dc5a474dd0cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/P2_Attack2.png using Guid(779e089ea3a5da244b26dc5a474dd0cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '220e4f42c769faaf59b85a2d2d38c64f') in 0.078663 seconds
+  Import took 0.081583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/P2_Dead.png
+  artifactKey: Guid(03c40fd243976cd45927d34932c49404) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/P2_Dead.png using Guid(03c40fd243976cd45927d34932c49404) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45df7a0750fdfa4b1095a858a0c73558') in 0.085048 seconds
+  Import took 0.088205 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/P2_Run.png
+  artifactKey: Guid(db6f0edf5d3e85c4e943f69fa9a375a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/P2_Run.png using Guid(db6f0edf5d3e85c4e943f69fa9a375a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c92ca8996a9de8fb8ce097cdb6a22a36') in 0.079711 seconds
+  Import took 0.084180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000450 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/P2_Fall.png
+  artifactKey: Guid(0eaaf9f007a50824e845778eb02bf25b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/P2_Fall.png using Guid(0eaaf9f007a50824e845778eb02bf25b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11e5890c5da10a0c10b5f7428ec680a2') in 0.052278 seconds
+  Import took 0.071854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000461 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/P2_Dash.png
+  artifactKey: Guid(5b2081df363971346a9b4b95bef3b0d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/P2_Dash.png using Guid(5b2081df363971346a9b4b95bef3b0d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1178188021dd2c27d02fe625219d5688') in 0.079518 seconds
+  Import took 0.083467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3/P3_Raise.png
+  artifactKey: Guid(3534c8183980e16458fd22f7bfcbeac3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3/P3_Raise.png using Guid(3534c8183980e16458fd22f7bfcbeac3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0707f47b4ffb88198c659e0cdc24e45') in 0.120319 seconds
+  Import took 0.124235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3/P3_Attack2.png
+  artifactKey: Guid(cabb25111521aea468d35359cd00c11b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3/P3_Attack2.png using Guid(cabb25111521aea468d35359cd00c11b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2d2dcb16e45406c161102289b1e55e0') in 0.064568 seconds
+  Import took 0.068170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000361 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/P2_AttackUp.png
+  artifactKey: Guid(5cc619d988b69274b8563068cd810e1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/P2_AttackUp.png using Guid(5cc619d988b69274b8563068cd810e1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '289b2e7b8c97681689e87ff8a334d053') in 0.150609 seconds
+  Import took 0.154085 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/P2_AttackDown.png
+  artifactKey: Guid(84a9776483b18154a848d7b8b1f70e5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/P2_AttackDown.png using Guid(84a9776483b18154a848d7b8b1f70e5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db53c06e204de8c7a9cb7db98ce65959') in 0.118001 seconds
+  Import took 0.121696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000681 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/P2_TakeOff.png
+  artifactKey: Guid(6c68f039608702c43aa67d639ff43314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/P2_TakeOff.png using Guid(6c68f039608702c43aa67d639ff43314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8ceac868dba007943a3bf0eb175f477') in 0.200247 seconds
+  Import took 0.206545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000734 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3/P3_Attack3.png
+  artifactKey: Guid(23f32594dd785e74d91870a9fecdf99f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player3/P3_Attack3.png using Guid(23f32594dd785e74d91870a9fecdf99f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a653326b4f6ffac7c72e7c3868673e34') in 0.083273 seconds
+  Import took 0.090864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000451 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2
+  artifactKey: Guid(3ec73c5d6cf212846bacfaab0ca8cfb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2 using Guid(3ec73c5d6cf212846bacfaab0ca8cfb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e07217464562505b83cf35e4cd0bcb2') in 0.016846 seconds
+  Import took 0.021249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/P2_Hit.png
+  artifactKey: Guid(b20a6076025b2c24ab9a126bdeb59458) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/P2_Hit.png using Guid(b20a6076025b2c24ab9a126bdeb59458) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19fe6c51fd4d3da180eb7d00b4f99502') in 0.086898 seconds
+  Import took 0.090978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/P2_RunTurn.png
+  artifactKey: Guid(85bb70d889d08f74fb29e77be58b2b79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/P2_RunTurn.png using Guid(85bb70d889d08f74fb29e77be58b2b79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94531678e803cdd831360086741c2349') in 0.098660 seconds
+  Import took 0.101730 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 698.699618 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/P2_Appear_0.controller
+  artifactKey: Guid(080d404d33ec46b48a2cced60a89ef8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/P2_Appear_0.controller using Guid(080d404d33ec46b48a2cced60a89ef8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b2e2ccfeaf16c8ae9f20557a1b8bcd6') in 0.082319 seconds
+  Import took 0.104153 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.344178 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/aparicao.anim
+  artifactKey: Guid(0d63c5b56d7be1c479699e4a1d38ec93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/aparicao.anim using Guid(0d63c5b56d7be1c479699e4a1d38ec93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ad8d1c34e39ed03433ee7c999a78eca') in 0.081670 seconds
+  Import took 0.090224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.073946 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/aparicao.anim
+  artifactKey: Guid(0d63c5b56d7be1c479699e4a1d38ec93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Player Sprites/Player2/aparicao.anim using Guid(0d63c5b56d7be1c479699e4a1d38ec93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ad8d1c34e39ed03433ee7c999a78eca') in 0.005901 seconds
+  Import took 0.011012 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 106.996566 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Enemy Sprites
+  artifactKey: Guid(829e47bf17a8124409417bed7dce3ea0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Enemy Sprites using Guid(829e47bf17a8124409417bed7dce3ea0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1439a483e62fb44c8c525b2d3b847555') in 0.011168 seconds
+  Import took 0.014556 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.466221 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Enemy Sprites/Crawler Enemy
+  artifactKey: Guid(879fba48a6423124496a1dc197b79491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Enemy Sprites/Crawler Enemy using Guid(879fba48a6423124496a1dc197b79491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d7d815f96dd705856d11ee6271e24a0') in 0.029891 seconds
+  Import took 0.051204 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Enemy Sprites/Crawler Enemy/CE_Walk.png
+  artifactKey: Guid(4aa71b1ee18053b49a8561fe4f2d3100) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Enemy Sprites/Crawler Enemy/CE_Walk.png using Guid(4aa71b1ee18053b49a8561fe4f2d3100) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c93ea5e425cce054c5403d5c36db34bd') in 0.092829 seconds
+  Import took 0.096311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000437 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Enemy Sprites/Crawler Enemy/CE_Dead.png
+  artifactKey: Guid(11232759a731e364ba604c2f1626f2e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Enemy Sprites/Crawler Enemy/CE_Dead.png using Guid(11232759a731e364ba604c2f1626f2e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '446f1d88a665306b87c9d50ef05c518e') in 0.090659 seconds
+  Import took 0.093759 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/Fantasy Adventure Pack/Sprites/Enemy Sprites/Crawler Enemy/CE_Hit.png
+  artifactKey: Guid(25196ad49bdb42b409e25effc0bf79fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sprites/Enemy Sprites/Crawler Enemy/CE_Hit.png using Guid(25196ad49bdb42b409e25effc0bf79fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6c01423b930feda936289a740c01ddd') in 0.080293 seconds
+  Import took 0.083240 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 114.090902 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette
+  artifactKey: Guid(31b9f7b7091bad6488352b377956ad66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette using Guid(31b9f7b7091bad6488352b377956ad66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9098952f19ae94bb337acaaabcdf3005') in 0.024868 seconds
+  Import took 0.030900 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.569954 seconds.
+  path: Assets/Fantasy Adventure Pack/Prefabs/Players
+  artifactKey: Guid(f1a8d8c90d32cf04a8fa14f75f331b89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Prefabs/Players using Guid(f1a8d8c90d32cf04a8fa14f75f331b89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77dd0badcaee05494c36c64ce5164902') in 0.010412 seconds
+  Import took 0.013705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.456317 seconds.
+  path: Assets/Fantasy Adventure Pack/Prefabs/Enemies
+  artifactKey: Guid(65e517931717f4a4f89f71ac2e2b4fb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Prefabs/Enemies using Guid(65e517931717f4a4f89f71ac2e2b4fb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '463b6486e788ae31d516f3cf4c252c2c') in 0.010532 seconds
+  Import took 0.013930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.051163 seconds.
+  path: Assets/Fantasy Adventure Pack/Prefabs/Enemies/Boss.prefab
+  artifactKey: Guid(b27f59943b95baf47b94052f3bb8436a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Prefabs/Enemies/Boss.prefab using Guid(b27f59943b95baf47b94052f3bb8436a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85229b5ede5e90944a0a2b9fbcbbe781') in 0.799454 seconds
+  Import took 0.831990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000631 seconds.
+  path: Assets/Fantasy Adventure Pack/Prefabs/Enemies/FlyingEnemy.prefab
+  artifactKey: Guid(9c84334d3e5a7de4295edb095ac8f23b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Prefabs/Enemies/FlyingEnemy.prefab using Guid(9c84334d3e5a7de4295edb095ac8f23b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b1a56d01543d297a967c2d10d1cffb9') in 0.162849 seconds
+  Import took 0.168723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Fantasy Adventure Pack/Prefabs/Enemies/Tentacle.prefab
+  artifactKey: Guid(9d8e3dd53aef7e34483d4c2d05c2d2f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Prefabs/Enemies/Tentacle.prefab using Guid(9d8e3dd53aef7e34483d4c2d05c2d2f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b2085f110c080567f332f19606aec6c') in 0.182305 seconds
+  Import took 0.186724 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Fantasy Adventure Pack/Prefabs/Enemies/TrapEnemy2.prefab
+  artifactKey: Guid(0e9b61992ce532346b3bd254abedc4b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Prefabs/Enemies/TrapEnemy2.prefab using Guid(0e9b61992ce532346b3bd254abedc4b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0cb96039134b6b585bc3dd26edd4807') in 0.121123 seconds
+  Import took 0.125858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/Fantasy Adventure Pack/Prefabs/Enemies/MeleeEnemy1.prefab
+  artifactKey: Guid(9ca2c7637ab52184c975f6f474ddd905) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Prefabs/Enemies/MeleeEnemy1.prefab using Guid(9ca2c7637ab52184c975f6f474ddd905) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0bc28aeaf7db641b621bcf4dd949391') in 0.326450 seconds
+  Import took 0.331726 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Assets/Fantasy Adventure Pack/Prefabs/Enemies/FlyinRiderEnemy.prefab
+  artifactKey: Guid(5f3f39e56c1aba244b9d4959fb7fbd0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Prefabs/Enemies/FlyinRiderEnemy.prefab using Guid(5f3f39e56c1aba244b9d4959fb7fbd0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce4f7778c34eb6de97cfb0b5d4def6eb') in 0.139561 seconds
+  Import took 0.144533 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Fantasy Adventure Pack/Prefabs/Enemies/MeleeEnemy2.prefab
+  artifactKey: Guid(d86a9b8076fda084aae6e1292581d76d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Prefabs/Enemies/MeleeEnemy2.prefab using Guid(d86a9b8076fda084aae6e1292581d76d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7010d87d934b8067a8b43602c9e081a6') in 0.267296 seconds
+  Import took 0.271861 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/Fantasy Adventure Pack/Prefabs/Enemies/CrawlerEnemy.prefab
+  artifactKey: Guid(aee6d1868044e5d40a5e61b24f3b521f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Prefabs/Enemies/CrawlerEnemy.prefab using Guid(aee6d1868044e5d40a5e61b24f3b521f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdcff83606152479126a88510125ef9b') in 0.137108 seconds
+  Import took 0.141609 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/Fantasy Adventure Pack/Prefabs/Enemies/RangedEnemy.prefab
+  artifactKey: Guid(d44921d6e3ecbae499bb6358d7739526) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Prefabs/Enemies/RangedEnemy.prefab using Guid(d44921d6e3ecbae499bb6358d7739526) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df6f03048674933a5222f39cb5f742f3') in 0.116767 seconds
+  Import took 0.121264 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/Fantasy Adventure Pack/Prefabs/Enemies/TrapEnemy1.prefab
+  artifactKey: Guid(245717a548ff6f441a287ae2c8e6f5d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Prefabs/Enemies/TrapEnemy1.prefab using Guid(245717a548ff6f441a287ae2c8e6f5d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca126f661e46cc30c4a8be10a92fbc97') in 0.062516 seconds
+  Import took 0.070200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2844.734714 seconds.
+  path: Assets/Fantasy Adventure Pack/Prefabs/Players/Player1.prefab
+  artifactKey: Guid(27f35b2945ed4bf4aa5eebac283c3137) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Prefabs/Players/Player1.prefab using Guid(27f35b2945ed4bf4aa5eebac283c3137) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5180a3b7675a47c9449f182442f60f3') in 0.521825 seconds
+  Import took 0.527740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000421 seconds.
+  path: Assets/Fantasy Adventure Pack/Prefabs/Players/Player2.prefab
+  artifactKey: Guid(ed1aab9cdeab5fa459272f7604291df0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Prefabs/Players/Player2.prefab using Guid(ed1aab9cdeab5fa459272f7604291df0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6415f91dc1ff6ad759cb872bce85b0ae') in 0.334390 seconds
+  Import took 0.340903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000660 seconds.
+  path: Assets/Fantasy Adventure Pack/Prefabs/Players/PLayer3.prefab
+  artifactKey: Guid(b86ae87faa8697a41885ef7bcd9022d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Prefabs/Players/PLayer3.prefab using Guid(b86ae87faa8697a41885ef7bcd9022d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a83534c79d0665f67257135866f6343c') in 0.250121 seconds
+  Import took 0.256416 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001381 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.625 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.74 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.3 MB.
+System memory in use after: 89.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2596.
+Total: 4.596000 ms (FindLiveObjects: 0.364800 ms CreateObjectMapping: 0.120400 ms MarkObjects: 3.937400 ms  DeleteObjects: 0.171500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001857 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.864 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.3 MB.
+System memory in use after: 89.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2600.
+Total: 1.882900 ms (FindLiveObjects: 0.185600 ms CreateObjectMapping: 0.062200 ms MarkObjects: 1.491400 ms  DeleteObjects: 0.143000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 124.893073 seconds.
+  path: Assets/Fantasy Adventure Pack/Sound
+  artifactKey: Guid(9ed60a83f28893a46af11073d758966a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Sound using Guid(9ed60a83f28893a46af11073d758966a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b2f0b52905038dc6492d936b8517cd1') in 0.014166 seconds
+  Import took 0.018355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.787504 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/TilePalette1.prefab
+  artifactKey: Guid(917a45ed52337864f855c6e22e1b38e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/TilePalette1.prefab using Guid(917a45ed52337864f855c6e22e1b38e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '388427154d8d2dafb374b3e23f3e6e1e') in 0.037848 seconds
+  Import took 0.041480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/Tileset1_1.asset
+  artifactKey: Guid(05f0e6aa1c52dd7499a16c9fb3310669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/Tileset1_1.asset using Guid(05f0e6aa1c52dd7499a16c9fb3310669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb169be1892d68df4655d59c8f9eb8cf') in 0.201864 seconds
+  Import took 0.205258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/Tileset1_2.asset
+  artifactKey: Guid(ecc13005245eb0d449f913d93a22fb34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/Tileset1_2.asset using Guid(ecc13005245eb0d449f913d93a22fb34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b55c371bb2b098a44a6f1d1c89326cc') in 0.035785 seconds
+  Import took 0.039372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/Tileset1_45.asset
+  artifactKey: Guid(37b7a6a3fce7d62409c1fb84b692edb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/Tileset1_45.asset using Guid(37b7a6a3fce7d62409c1fb84b692edb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec20124a3dd78d04d9ca81e14707126f') in 0.047866 seconds
+  Import took 0.051022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/Tileset1_36.asset
+  artifactKey: Guid(8a12f785c3a298345a96a5373c3f5182) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/Tileset1_36.asset using Guid(8a12f785c3a298345a96a5373c3f5182) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '007fd140ab7ed2388bc4fe66708ec083') in 0.040801 seconds
+  Import took 0.044808 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000837 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/Tileset1_40.asset
+  artifactKey: Guid(31851420dd6fa5149a9740ac2f556a23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/Tileset1_40.asset using Guid(31851420dd6fa5149a9740ac2f556a23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c796563cc3958eca438906f80dad4150') in 0.035092 seconds
+  Import took 0.039107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/Tileset1_15.asset
+  artifactKey: Guid(155a0fed1a78b9e48a4caaa8219371e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/Tileset1_15.asset using Guid(155a0fed1a78b9e48a4caaa8219371e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af9bef2c089218cf216597739fb257af') in 0.052041 seconds
+  Import took 0.055849 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000397 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/Tileset1_19.asset
+  artifactKey: Guid(446c0a8273bbdc34abb6787cc95b4ebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/Tileset1_19.asset using Guid(446c0a8273bbdc34abb6787cc95b4ebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe72240900ee4bc2864178932edbb035') in 0.018475 seconds
+  Import took 0.023785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000530 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/Tileset1_23.asset
+  artifactKey: Guid(c275a761060307248860686b39202cd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/Tileset1_23.asset using Guid(c275a761060307248860686b39202cd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36489da971dfee786af918f9b559c791') in 0.016722 seconds
+  Import took 0.020323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000571 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/Tileset1_17.asset
+  artifactKey: Guid(5da4de770385bb943aecfd348fe820c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/Tileset1_17.asset using Guid(5da4de770385bb943aecfd348fe820c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88840d2fef41ce2e07f08f2bd4b790e3') in 0.018497 seconds
+  Import took 0.022033 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000450 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/Tileset1_38.asset
+  artifactKey: Guid(be399b2af64e1954d8dada24d65b35d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/Tileset1_38.asset using Guid(be399b2af64e1954d8dada24d65b35d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce0e893ee67ff7b957a67bbb3c5c4955') in 0.023939 seconds
+  Import took 0.028937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000445 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/Tileset1_44.asset
+  artifactKey: Guid(a2d6def7dd16da446918841a9ccd3f90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/Tileset1_44.asset using Guid(a2d6def7dd16da446918841a9ccd3f90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66c1605b92eb438055746fe311ac300e') in 0.019342 seconds
+  Import took 0.023741 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/Tileset1_8.asset
+  artifactKey: Guid(f35998070c668d549942b05c7ba7b48d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/Tileset1_8.asset using Guid(f35998070c668d549942b05c7ba7b48d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0e80e44cf91f1800672b2231eb73de2') in 0.030577 seconds
+  Import took 0.035578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/Tileset1_31.asset
+  artifactKey: Guid(0f96fbd7291746c4f8b7b66f94c62a09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/Tileset1_31.asset using Guid(0f96fbd7291746c4f8b7b66f94c62a09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f663ae5eb8937bcc51fad61f58265ec') in 0.018185 seconds
+  Import took 0.021850 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/Tileset1_29.asset
+  artifactKey: Guid(fee8885578d7546428eb8814c0b72778) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/Tileset1_29.asset using Guid(fee8885578d7546428eb8814c0b72778) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f17ade84c6946b6b61435565bef25671') in 0.016483 seconds
+  Import took 0.020014 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/Tileset1_11.asset
+  artifactKey: Guid(49d88f35fa2f79947b9936c44ea2cb7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/Tileset1_11.asset using Guid(49d88f35fa2f79947b9936c44ea2cb7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1b618f92f597bde924d2d48ae7be43d') in 0.034640 seconds
+  Import took 0.040306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000557 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/Tileset1_14.asset
+  artifactKey: Guid(97c6203e6b057514e8ac077f16f78091) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/Tileset1_14.asset using Guid(97c6203e6b057514e8ac077f16f78091) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1e67f9d46deae46ee10bbf2ccc80b89') in 0.019656 seconds
+  Import took 0.023823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/Tileset1_39.asset
+  artifactKey: Guid(742f098d70ce24e47b69babc9bf925e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/Tileset1_39.asset using Guid(742f098d70ce24e47b69babc9bf925e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f09e74ef0608a85a95f3ba2c26d6b37') in 0.016741 seconds
+  Import took 0.022374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/Tileset1_18.asset
+  artifactKey: Guid(89b125a4143cc574081fa29d6984597e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/Tileset1_18.asset using Guid(89b125a4143cc574081fa29d6984597e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f0c85df78950a2d187b22abcf4d24a4') in 0.016930 seconds
+  Import took 0.021000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000435 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/Tileset1_3.asset
+  artifactKey: Guid(4da4a2671177967478043f0ff6d11ffd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/Tileset1_3.asset using Guid(4da4a2671177967478043f0ff6d11ffd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ba0a713f85330a4f42576ffee8d5f60') in 0.017206 seconds
+  Import took 0.020602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/Tileset1_21.asset
+  artifactKey: Guid(8f68c0413f517884cba9605726c36fdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/Tileset1_21.asset using Guid(8f68c0413f517884cba9605726c36fdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99c09a0b3bf4059cee88f469bb95fd10') in 0.019100 seconds
+  Import took 0.023756 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000510 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/Tileset1_30.asset
+  artifactKey: Guid(0720902b98528a74987a18e7a995f44e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/Tileset1_30.asset using Guid(0720902b98528a74987a18e7a995f44e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd61612289cf6d8454fb5621717d21be') in 0.022959 seconds
+  Import took 0.027211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000477 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/Tileset1_43.asset
+  artifactKey: Guid(6f74c6d068181e644856268db2591a20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/Tileset1_43.asset using Guid(6f74c6d068181e644856268db2591a20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7d845c63ebf3240b7fde9aa21b25b41') in 0.018484 seconds
+  Import took 0.024343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000424 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/TilePalette3.prefab
+  artifactKey: Guid(e720df013a5f83e448fb7d0fc34366ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/TilePalette3.prefab using Guid(e720df013a5f83e448fb7d0fc34366ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4a0f0e3b9e2a459f0172a32f7ee774d') in 0.017162 seconds
+  Import took 0.022797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/Tileset1_12.asset
+  artifactKey: Guid(2cf247d7bf31d0a43a2b5327fe5a3fa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/Tileset1_12.asset using Guid(2cf247d7bf31d0a43a2b5327fe5a3fa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2c49579b42339b8e11dd44ac2f16af2') in 0.195180 seconds
+  Import took 0.200204 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000480 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/Tileset1_33.asset
+  artifactKey: Guid(28c5de91bb9635749996551fc7ac9657) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/Tileset1_33.asset using Guid(28c5de91bb9635749996551fc7ac9657) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbba1aa5fbacbc9d33206b5acff38ef2') in 0.059603 seconds
+  Import took 0.064402 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/Tileset1_13.asset
+  artifactKey: Guid(69c69f35e992db64fb17e7f8fddebf51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/Tileset1_13.asset using Guid(69c69f35e992db64fb17e7f8fddebf51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fadbdcc93aa4a508a731032544b3d67c') in 0.016289 seconds
+  Import took 0.043471 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/Tileset1_37.asset
+  artifactKey: Guid(8e3e4afc86ca73a49b78c938c969f5ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/Tileset1_37.asset using Guid(8e3e4afc86ca73a49b78c938c969f5ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f74365586ae318be71038d076b15c29') in 0.040475 seconds
+  Import took 0.044656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/Tileset1_20.asset
+  artifactKey: Guid(c085bcf2d91aa664898bcd826cafded7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/Tileset1_20.asset using Guid(c085bcf2d91aa664898bcd826cafded7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e451d7bb3cab4672c418db3e714103d') in 0.067704 seconds
+  Import took 0.071792 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000372 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/Tileset1_35.asset
+  artifactKey: Guid(0c79d5423e227c54e913ca364fdb21a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/Tileset1_35.asset using Guid(0c79d5423e227c54e913ca364fdb21a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edf8ef65781a40b1cf12c9585c614aa0') in 0.017399 seconds
+  Import took 0.022736 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/Tileset1_34.asset
+  artifactKey: Guid(07a72d4bd97ba984da9def62eb90c463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/Tileset1_34.asset using Guid(07a72d4bd97ba984da9def62eb90c463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e69209bd7e9439b581021b4d4f1a3e0b') in 0.019031 seconds
+  Import took 0.023004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/Tileset1_22.asset
+  artifactKey: Guid(85975d38803cc1d4087a2211b800f5a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/Tileset1_22.asset using Guid(85975d38803cc1d4087a2211b800f5a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c88d6607c093d8f1b667a2ec61c73f8f') in 0.034700 seconds
+  Import took 0.039460 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/Tileset1_42.asset
+  artifactKey: Guid(c002be7cccc85a848916c56360dc4847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/Tileset1_42.asset using Guid(c002be7cccc85a848916c56360dc4847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb595e7f57d922088c294131f437073d') in 0.020050 seconds
+  Import took 0.026322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/Tileset1_7.asset
+  artifactKey: Guid(995c5eb911fd81744ac2acc70134630d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/Tileset1_7.asset using Guid(995c5eb911fd81744ac2acc70134630d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f952cdcbad4056955d62930ec1c37b0') in 0.017353 seconds
+  Import took 0.021104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000529 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/Tileset1_0.asset
+  artifactKey: Guid(b2cdf1d82c4cb60448d559b477fbba4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/Tileset1_0.asset using Guid(b2cdf1d82c4cb60448d559b477fbba4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a14fe0bbe7473a2d24d3a2e1667a83e') in 0.056815 seconds
+  Import took 0.061053 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/Tileset1_6.asset
+  artifactKey: Guid(3e6e2194b33e85546b64c0c628161327) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/Tileset1_6.asset using Guid(3e6e2194b33e85546b64c0c628161327) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cf9684e303a84b6f4cdf8a385d9245e') in 0.018756 seconds
+  Import took 0.022000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/Tileset1_25.asset
+  artifactKey: Guid(193798ea9aab26b48afb98670ef23de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/Tileset1_25.asset using Guid(193798ea9aab26b48afb98670ef23de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17295288e3f79e781525fd935034cc10') in 0.018585 seconds
+  Import took 0.021744 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/Tileset1_16.asset
+  artifactKey: Guid(0d20c3f1862b867428a52c1d71759e78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/Tileset1_16.asset using Guid(0d20c3f1862b867428a52c1d71759e78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a769d5ed5add50597accb5c12f06bace') in 0.038981 seconds
+  Import took 0.043351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/Tileset1_32.asset
+  artifactKey: Guid(078f873c4dd1a3148822303c904010f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/Tileset1_32.asset using Guid(078f873c4dd1a3148822303c904010f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3436735add640aea72854894d5a25d6') in 0.017425 seconds
+  Import took 0.021455 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/Tileset1_5.asset
+  artifactKey: Guid(635ef87097934534db1695876b72926d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/Tileset1_5.asset using Guid(635ef87097934534db1695876b72926d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19c7eea265e27ac9f359b0af765a1b10') in 0.015405 seconds
+  Import took 0.020483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000822 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/Tileset1_4.asset
+  artifactKey: Guid(fcaa5cbf31bdfe54c8efb14a25ea9444) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/Tileset1_4.asset using Guid(fcaa5cbf31bdfe54c8efb14a25ea9444) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83679797519d5b4035c7a1eb2d9ac045') in 0.016605 seconds
+  Import took 0.020784 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000372 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/Tileset1_41.asset
+  artifactKey: Guid(d44bb02a14e31ea4c8f421d95b28cff5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/Tileset1_41.asset using Guid(d44bb02a14e31ea4c8f421d95b28cff5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4b09d126858c05bde4e303cb013b9cb') in 0.018902 seconds
+  Import took 0.023401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/Tileset1_9.asset
+  artifactKey: Guid(a4ab911dabd4c5348a53c8e3e7b90fa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/Tileset1_9.asset using Guid(a4ab911dabd4c5348a53c8e3e7b90fa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3d15bdd35bf7733113b41436ac88f6d') in 0.073572 seconds
+  Import took 0.082870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000811 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/Tileset1_27.asset
+  artifactKey: Guid(3daed528e7f86e3499ac86e06dccfd08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/Tileset1_27.asset using Guid(3daed528e7f86e3499ac86e06dccfd08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '401c30ca75089a3074c79dc098548e12') in 0.036298 seconds
+  Import took 0.045421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000468 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/TilePalette2.prefab
+  artifactKey: Guid(8db737bf37b731f43ac9a6c2e02040bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/TilePalette2.prefab using Guid(8db737bf37b731f43ac9a6c2e02040bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6757e52432ceb117efc9a07db50a6b0c') in 0.028742 seconds
+  Import took 0.033130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/Tileset1_28.asset
+  artifactKey: Guid(2d65431b23896474f88f177be53401a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/Tileset1_28.asset using Guid(2d65431b23896474f88f177be53401a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98d52528e9746c2cb598bbdf469e8c20') in 0.040503 seconds
+  Import took 0.044090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/Tileset1_10.asset
+  artifactKey: Guid(4ff044624760c614cbc42760bf123f9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/Tileset1_10.asset using Guid(4ff044624760c614cbc42760bf123f9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d8c2b28b01b0c35cc8060335904cd4f') in 0.020875 seconds
+  Import took 0.024377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/Tileset1_24.asset
+  artifactKey: Guid(14e27a27f3b843e42ba797404b64bb70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/Tileset1_24.asset using Guid(14e27a27f3b843e42ba797404b64bb70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56aa0688d7f30786d57fe3ed90dd6d76') in 0.019286 seconds
+  Import took 0.023876 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Fantasy Adventure Pack/TilePalette/Tileset1_26.asset
+  artifactKey: Guid(f37693e96eef6d444ab0836b518dd571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/TilePalette/Tileset1_26.asset using Guid(f37693e96eef6d444ab0836b518dd571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c610f141f09ae9c697ee93f8c8b89f06') in 0.016220 seconds
+  Import took 0.020656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.988813 seconds.
+  path: Assets/Fantasy Adventure Pack/Animations
+  artifactKey: Guid(ab7d83df7b84d8f4d92b476281e66612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Adventure Pack/Animations using Guid(ab7d83df7b84d8f4d92b476281e66612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36764bb7c65d79479a5047f299e43dd8') in 0.009774 seconds
+  Import took 0.014024 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.071688 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.553 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.80 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.2 MB.
+System memory in use after: 90.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2606.
+Total: 2.856700 ms (FindLiveObjects: 0.504000 ms CreateObjectMapping: 0.199400 ms MarkObjects: 2.008500 ms  DeleteObjects: 0.143700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1951.352176 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.050120 seconds
+  Import took 0.169297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.413049 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.011896 seconds
+  Import took 0.040002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.673764 seconds.
+  path: Assets/Movimento.cs
+  artifactKey: Guid(9b0598805d98ee9409dc5bd53812af5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Movimento.cs using Guid(9b0598805d98ee9409dc5bd53812af5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e2b94bd51192369997b0a08d9b00caa') in 0.411467 seconds
+  Import took 0.445259 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.264072 seconds.
+  path: Assets/MovimentoPlayer.cs
+  artifactKey: Guid(9b0598805d98ee9409dc5bd53812af5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MovimentoPlayer.cs using Guid(9b0598805d98ee9409dc5bd53812af5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b3084521abe3b4fc92fa693695743dc') in 0.015345 seconds
+  Import took 0.086858 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001302 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.458 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.11 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.2 MB.
+System memory in use after: 90.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2611.
+Total: 4.158900 ms (FindLiveObjects: 0.380400 ms CreateObjectMapping: 0.128800 ms MarkObjects: 3.472000 ms  DeleteObjects: 0.175600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.062911 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.98 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 13.640 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.90 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.2 MB.
+System memory in use after: 90.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2615.
+Total: 82.183100 ms (FindLiveObjects: 0.352100 ms CreateObjectMapping: 0.090500 ms MarkObjects: 81.521400 ms  DeleteObjects: 0.215900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 7744.093846 seconds.
+  path: Assets/MovimentoPlayer.cs
+  artifactKey: Guid(9b0598805d98ee9409dc5bd53812af5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MovimentoPlayer.cs using Guid(9b0598805d98ee9409dc5bd53812af5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '111b490f68b29025574a2da2de1f47be') in 0.202860 seconds
+  Import took 0.291100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.247646 seconds.
+  path: Assets/MovimentoPlayer.cs
+  artifactKey: Guid(9b0598805d98ee9409dc5bd53812af5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MovimentoPlayer.cs using Guid(9b0598805d98ee9409dc5bd53812af5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '111b490f68b29025574a2da2de1f47be') in 0.006074 seconds
+  Import took 0.030815 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001353 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.470 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 15.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.2 MB.
+System memory in use after: 90.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2619.
+Total: 3.227800 ms (FindLiveObjects: 0.379700 ms CreateObjectMapping: 0.134800 ms MarkObjects: 2.565100 ms  DeleteObjects: 0.146600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001493 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.993 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.2 MB.
+System memory in use after: 90.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2623.
+Total: 2.087800 ms (FindLiveObjects: 0.233800 ms CreateObjectMapping: 0.062500 ms MarkObjects: 1.650200 ms  DeleteObjects: 0.140200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001283 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.001 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.2 MB.
+System memory in use after: 90.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2627.
+Total: 2.553200 ms (FindLiveObjects: 0.213800 ms CreateObjectMapping: 0.063100 ms MarkObjects: 2.119600 ms  DeleteObjects: 0.155400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001550 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.045 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.3 MB.
+System memory in use after: 90.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2631.
+Total: 3.578000 ms (FindLiveObjects: 0.315800 ms CreateObjectMapping: 0.090800 ms MarkObjects: 2.963600 ms  DeleteObjects: 0.205700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001438 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.052 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.3 MB.
+System memory in use after: 90.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2635.
+Total: 2.763300 ms (FindLiveObjects: 0.519300 ms CreateObjectMapping: 0.103600 ms MarkObjects: 1.987300 ms  DeleteObjects: 0.149800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001737 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.933 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.3 MB.
+System memory in use after: 90.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2639.
+Total: 2.036000 ms (FindLiveObjects: 0.209600 ms CreateObjectMapping: 0.054500 ms MarkObjects: 1.603900 ms  DeleteObjects: 0.166900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001561 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.871 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.3 MB.
+System memory in use after: 90.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2643.
+Total: 2.280800 ms (FindLiveObjects: 0.216200 ms CreateObjectMapping: 0.060600 ms MarkObjects: 1.862500 ms  DeleteObjects: 0.140400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002833 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.073 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.67 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.3 MB.
+System memory in use after: 90.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2647.
+Total: 1.900900 ms (FindLiveObjects: 0.220600 ms CreateObjectMapping: 0.064800 ms MarkObjects: 1.469400 ms  DeleteObjects: 0.145200 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
